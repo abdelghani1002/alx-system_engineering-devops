@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mla1pF
+ls -1mlapF
