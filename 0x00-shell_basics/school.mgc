@@ -1,3 +1,2 @@
 #!/bin/bash
-0 string SCHOOL School data school
-school -C -m school.magic -b -F school.mgc
+0 string SCHOOL School data !:mime School
